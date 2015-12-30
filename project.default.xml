@@ -24,6 +24,7 @@
         <option name="modificationStamps">
           <map>
             <entry key="$USER_HOME$/WORKSPACE/1.4.5" value="11539652467000" />
+            <entry key="$USER_HOME$/WORKSPACE/1.5.3" value="10160257305000" />
             <entry key="$USER_HOME$/WORKSPACE/1460" value="11539760991000" />
             <entry key="$USER_HOME$/WORKSPACE/android_m" value="10137726089000" />
             <entry key="$USER_HOME$/WORKSPACE/deferred" value="10130560034000" />
@@ -62,7 +63,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="$USER_HOME$/WORKSPACE/android_m" />
+        <property name="last_opened_file_path" value="$USER_HOME$/WORKSPACE/1.5.3" />
         <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
